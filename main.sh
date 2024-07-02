@@ -4,3 +4,5 @@
 
 pip install pillow
 pip install pytesseract
+# pip install cnocr
+pip install XlsxWriter
